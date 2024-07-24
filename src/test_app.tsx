@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-function App() {
+function TestApp() {
     return (
         <div className="App">
             <h1>test editor</h1>
@@ -9,4 +9,4 @@ function App() {
     );
 }
 
-export default App;
+export default TestApp;

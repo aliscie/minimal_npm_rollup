@@ -1,7 +1,9 @@
 {
   "name": "ali_app_new_test",
-  "version": "0.1.0",
-  "private": false,
+  "version": "0.1.1",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
